@@ -25,6 +25,7 @@ $ python main.py
   * 4: 传送带模式
   * 5: 坚果保龄球模式
 
+
 # 截屏
 ![截屏1](https://raw.githubusercontent.com/marblexu/PythonPlantsVsZombies/master/demo/demo1.jpg)
 ![截屏2](https://raw.githubusercontent.com/marblexu/PythonPlantsVsZombies/master/demo/demo2.jpg)
